@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/tfjs-yolov5-example/static/css/main.ac9d7858.chunk.css"
   },
   {
-    "revision": "b97bd49c50b089d54870c686b6dde543",
+    "revision": "d126276bade4db7ff0341287490d9e37",
     "url": "/tfjs-yolov5-example/index.html"
   }
 ];
