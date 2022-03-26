@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tfjs-yolov5-example/precache-manifest.76fec74c62a6b289f445363c7e8a77a3.js"
+  "/tfjs-yolov5-example/precache-manifest.8c8032fc0aba20e80ed2d38bde22a2ab.js"
 );
 
 workbox.clientsClaim();
